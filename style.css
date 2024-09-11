@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+#informa {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    width: 20% !important; 
+    height: 20% !important; 
+    border-radius: 5px;
+}
